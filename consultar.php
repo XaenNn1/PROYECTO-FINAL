@@ -1,5 +1,5 @@
 <?php
-require "conexion.php";
+require "coneccion.php";
 mysqli_set_charset($conexion,'utf8');
 
 // Verificar si el formulario se ha enviado
@@ -56,5 +56,5 @@ if ($count > 0) {
     echo "<h1 style='color:red'>Sin Ningun registro</h1>";
 }
 
-echo "<h1><a href='EliminarU.php'>Eliminar Usuario</a></h1>";
+echo "<h1><a href='eliminaruser.php'>Eliminar Usuario</a></h1>";
 ?>
