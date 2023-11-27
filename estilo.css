@@ -1,0 +1,43 @@
+button {
+    background: rgb(152, 200, 234);
+    border: 1px solid rgb(13, 13, 13);
+    padding: 5px;
+    color: white;
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+
+button:hover {
+    background-color: darksalmon;
+
+}
+
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+.ventana {
+
+    border: 10px solid rgba(241, 200, 147, 0.978);
+    box-shadow: 5px 5px 5px #34495e;
+    text-align: center;
+    background-color: antiquewhite;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.tamaño {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
