@@ -38,7 +38,7 @@
                 </form>
 
                 <div>
-                    <button>Acceder <a href="registrar.php"></a></button>
+                    <button>Acceder <a href=""></a></button>
 
                     <div class="registrar">
                         <p>No tengo cuenta UNAM <a href="https://correocomunidad.unam.mx/restablecer/categoria">Crea una</a></p>
