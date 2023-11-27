@@ -12,7 +12,7 @@ section {
     align-items: center;
     width: 100%;
     min-height: 100vh;
-    background: url(FONDOUNAM.jpg) no-repeat;
+    background: url(img/FONDOUNAM.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
